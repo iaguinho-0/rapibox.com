@@ -67,7 +67,7 @@ function Login() {
           
         </div>
         <h3 className="text-gray-500 text-left block mt-6">
-            Já tenho uma conta! <a href="/register" className="text-orange-600 hover:underline">Acessar</a>
+            Já tenho uma conta! <a href="/login" className="text-orange-600 hover:underline">Acessar</a>
           </h3>
       </div>
     </div>

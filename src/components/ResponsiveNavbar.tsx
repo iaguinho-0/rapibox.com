@@ -39,13 +39,13 @@ export const ResponsiveNavbar = () => {
       {/* Buttons */}
       <div className="hidden md:flex gap-4 px-10">
         <button
-          className="px-4 py-2 rounded bg-blue-600 hover:bg-blue-700"
+          className="px-4 py-2 rounded bg-blue-600 transition-colors duration-500 hover:bg-blue-700"
           onClick={() => navigate('/login')}
         >
           Login
         </button>
         <button
-          className="px-4 py-2 rounded bg-blue-900 hover:bg-blue-700"
+          className="px-4 py-2 rounded bg-blue-900 transition-colors duration-500 hover:bg-blue-700"
           onClick={() => navigate('/register')}
         >
           Cadastre-se
