@@ -34,7 +34,7 @@ function Login() {
 
           <div className="relative mb-4">
             <input
-              id="username" // Adicione um id ao input
+              id="username" // Adiciona um id ao input
               type="text"
               placeholder=" "
               className="w-full p-2 border bg-stone-100 border-gray-300 rounded-lg transition duration-300 ease-in-out focus:border-orange-500 focus:ring-0 focus:outline-none shadow-sm peer text-black"
@@ -50,7 +50,7 @@ function Login() {
 
           <div className="relative mb-4">
             <input
-              id="password" // Adicione um id ao input
+              id="password" // Adiciona um id ao input
               type="password"
               placeholder=" "
               className="w-full p-2 border bg-stone-100 border-gray-300 rounded-lg transition duration-300 ease-in-out focus:border-orange-500 focus:ring-0 focus:outline-none shadow-sm peer text-black"
